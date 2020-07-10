@@ -1,69 +1,68 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+:sound::notes: Jammming, um aplicativo web para criar sua playlist no Spotify :sound::notes:<br>
+</h1>
+<h3 align="center"> É um aplicativo da web desenvolvido a partir de um exercício proposto no curso de desenvolvimento web da codecademy. Neste exercício, o aplicativo foi desenvolvido com ReactJS, utilizando a API do Spotify, permitindo então o usuário a pesquisar na biblioteca do Spotify, criar uma lista de reprodução personalizada e salvá-la na conta do Spotify. </h3>
 
-## Available Scripts
+## :bookmark_tabs: Índice
 
-In the project directory, you can run:
+- [Sobre](#sobre)
+- [Lições Aprendidas](#licoes)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
-### `npm start`
+<a id="sobre"></a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :bookmark: Sobre
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+O projeto Jammming foi dividio em 12 seções, sendo elas: 
+- Criação do aplicativo React;
+- Criação dos componentes estáticos; 
+- Transmissão dos resultados de pesquisa e renderização da lista de resultados;
+- Passagem da lista de musicas para playlist; 
+- Adição das musicas a uma playlist; 
+- Remoção das musicas da playlist; 
+- Adição do nome da playlist;
+- Criação de um método que salva a playlist na conta de um usuário; 
+- Conexão entre barra de pesquisa à pesquisa do Spotify; 
+- Obtenção do token de acesso ao Spotify; 
+- Implementaçao da solicitação de pesquisa ao Spotify; 
+- Permissão de salvar lista de reprodução de um usuário no Spotify.
 
-### `npm test`
+<a id="licoes"></a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :chart_with_upwards_trend: Lições Aprendidas
 
-### `npm run build`
+Listo dois dos mais importantes aprendizados que tive durante o exerício:
+- ReactJS facilita a vida demais. Em vez de trabalhar em todo o aplicativo Web, o ReactJS permite que um desenvolvedor divida a interface do usuário complexa em componentes mais simples.
+- Uso das API's. Reutilização de um código já desenvolvido por outra pessoa permitindo a criação, conexão e integração entre aplicativos rapidamente e em escala. Uma mão na roda. 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a id="tecnologias-utilizadas"></a>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## :rocket: Tecnologias Utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-### `npm run eject`
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [React](https://pt-br.reactjs.org/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :computer: WEB
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h1 align="center">
+    <img src="https://github.com/FelipeSoller/jamming/blob/master/Jamming.gif">
+</h1>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :mortar_board: Ministrador por?
 
-## Learn More
+As aulas foram ministradas por **[Codecademy](https://www.codecademy.com/)** 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## :memo: Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/FelipeSoller/jamming/blob/master/LICENSE) para mais detalhes.
 
-### Code Splitting
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# jamming
+<h4 align="center">
+    Desenvolvido por <a href="https://www.linkedin.com/in/felipesoller/" target="_blank">Felipe Soller</a>
+</h4>
